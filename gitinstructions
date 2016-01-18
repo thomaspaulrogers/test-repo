@@ -1,0 +1,8 @@
+commands:
+git clone <URL>
+then drop a level to whatever folder
+git status
+git add .
+git commit -m "comment"
+git push
+git pull
